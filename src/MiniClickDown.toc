@@ -2,7 +2,7 @@
 ## Title: MiniClickDown
 ## Notes: Triggers action buttons on mouse down instead of mouse up.
 ## Author: Verz
-## Version: 1.0.0
+## Version: 1.0.1
 ## IconTexture: Interface\AddOns\MiniClickDown\icon.blp
 ## X-Curse-Project-ID: 1420413
 
