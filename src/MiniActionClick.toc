@@ -2,7 +2,7 @@
 ## Title: MiniActionClick
 ## Notes: Triggers action buttons on mouse down in addition to mouse up.
 ## Author: Verz
-## Version: 1.2.0
+## Version: 1.3.0
 ## IconTexture: Interface\AddOns\MiniActionClick\Icon.blp
 ## X-Curse-Project-ID: 1420413
 

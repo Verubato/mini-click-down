@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.0
+
+Updated icon.
+
 ## 1.2.0
 
 Addon rename.
